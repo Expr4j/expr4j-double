@@ -6,8 +6,6 @@
 # Double Implementation for Expr4j
 This is a Java library providing Double datatype implementation for [Expr4j](https://github.com/expr4j/expr4j) library.
 
-<br/>
-
 ## Dependency Management
 
 ### Maven
