@@ -4,6 +4,9 @@
 </p>
 
 # Double Implementation for Expr4j
+
+![Maven](https://github.com/expr4j/expr4j-double/actions/workflows/maven.yml/badge.svg)
+
 This is a Java library providing Double datatype implementation for [Expr4j](https://github.com/expr4j/expr4j) library.
 
 ## Dependency Management
